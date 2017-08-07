@@ -1,0 +1,14 @@
+{
+  "name": "Giovanni's Pizza",
+  "short_name": "Gio's",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
+  "icons": [{
+    "src": "/assets/pizzacon.png",
+    "type": "image/png",
+    "sizes": "340x431"
+  }]
+}

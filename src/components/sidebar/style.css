@@ -1,0 +1,19 @@
+.sidebar {
+  position: fixed;
+  right: 0px;
+  width: 20%;
+  text-align: center;
+  padding: 56px 7px 10px 7px;
+  font-size: 16px;
+  color: #FFF;
+  background: #DC143C;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.sidebar hr {
+  color: #FFF;
+}
+
+.sidebar a {
+  color: #FFF;
+}
