@@ -16,3 +16,20 @@
 .subscribe h1 {
 	font-size: 40px;
 }
+
+.subscribe input {
+	height: 35px;
+	width: 50%;
+	font-size: 18px;
+}
+
+.subscribe button {
+	height: 35px;
+	width: 50%;
+	font-size: 18px;
+}
+
+.subscribe button:hover {
+	background: #B00B2C;
+}
+
