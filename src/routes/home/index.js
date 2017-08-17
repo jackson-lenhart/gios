@@ -16,7 +16,7 @@ export default class Home extends Component {
 		return (
 			<div class={style.home}>
 				<div class={style.subscribe}>
-					<h1>SUBSCRIBE</h1>
+					<h1>Subscribe to our mailing list:</h1>
 					<input type="text" onChange={this.handleChange} />
 				</div>
 				<h1>{title}</h1>
