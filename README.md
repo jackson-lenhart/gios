@@ -1,2 +1,2 @@
 # gios
-Website for local pizza shop
+Website for local pizza shop using Preact
